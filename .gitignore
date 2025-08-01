@@ -1,0 +1,15 @@
+# Ignore IDE/editor files
+.vscode/
+*.swp
+*.swo
+
+# Ignore build artefacts (if compiled code is added in future)
+build/
+bin/
+*.o
+*.out
+*.exe
+
+# Ignore logs and temp files
+*.log
+*.tmp
