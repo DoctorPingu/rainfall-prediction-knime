@@ -126,5 +126,6 @@ Row ID,PredictRainTomorrow
 
 ## License
 
-This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-You **may not** copy, modify, or distribute this project for commercial purposes.
+## License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project, provided proper credit is given.
