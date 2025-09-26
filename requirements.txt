@@ -1,0 +1,13 @@
+# KNIME Project Requirements
+# This project was built with KNIME Analytics Platform.
+# KNIME itself is not installed via pip — download from: https://www.knime.com/downloads
+
+# Specify KNIME version used for this workflow:
+knime-analytics-platform==5.2.0  # adjust to your version
+
+# Common Python integrations used in KNIME workflows:
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
